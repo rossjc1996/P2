@@ -1,4 +1,5 @@
-.body{
+.body
+{
     background: black;
     margin-left: 10%;
     margin-right: 10%;
@@ -6,13 +7,19 @@
     margin-bottom: 40px;
 }
 
-.header{
+.header
+{
     color: red;
     font-size: x-large;
     font-weight: bold;
 }
 
-.text{
+.text
+{
     color: white;
     margin-left: 10px;
+}
+.diftext
+{
+    color: red;
 }
