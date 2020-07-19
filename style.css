@@ -1,5 +1,5 @@
 .body{
-    background: white;
+    background: black;
     margin-left: 10%;
     margin-right: 10%;
     margin-top: 40px;
@@ -9,9 +9,10 @@
 .header{
     color: red;
     font-size: x-large;
+    font-weight: bold;
 }
 
 .text{
-    color: black;
+    color: white;
     margin-left: 10px;
 }
