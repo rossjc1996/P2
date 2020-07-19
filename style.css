@@ -26,10 +26,16 @@
 
 .imagetop
 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 250px;
 }
 
 .imagebot
 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 1000px;
 }
