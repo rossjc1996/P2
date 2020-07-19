@@ -24,8 +24,12 @@
     color: red;
 }
 
-.image
+.imagetop
 {
-    horizontal-align: center;
-    width: 300px;
+    width: 250px;
+}
+
+.imagebot
+{
+    width: 1000px;
 }
